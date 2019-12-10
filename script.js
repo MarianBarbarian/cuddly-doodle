@@ -1,6 +1,4 @@
-// shopping cart Lab 2
-//add taxes, calculate the total for all the products
-// create the menu with a loop for
+
 
 let snacks = ['chips', 'nuts', 'soda','candy'];
 
